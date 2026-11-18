@@ -6,7 +6,6 @@ Pengembangan proyek **PBO SPBU (Java, terminal)** menjadi aplikasi web dinamis: 
 - Data kendaraan hanya menyimpan **kapasitas tangki maksimum**.
 - **Isi tangki saat ini** diinput pada halaman Transaksi (kondisinya berbeda-beda tiap kunjungan), dipakai untuk menghitung sisa kapasitas, dan dicatat di transaksi (`isi_tangki_awal`).
 - Daftar kendaraan menampilkan **sisa kuota subsidi hari ini**.
-- Database lama: jalankan `migrasi_tangki.sql` sekali.
 
 ## Cara menjalankan (XAMPP / Laragon, PHP >= 8.1)
 1. Salin folder ini ke `htdocs/spbu_web`.
