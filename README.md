@@ -1,11 +1,15 @@
-# ⛽ SPBU UNSOED - Aplikasi Web
+<h1 align="center">⛽ SPBU UNSOED - Aplikasi Web</h1>
 
-> Tugas mata kuliah **Pemrograman Web I (IF21305)** — pengembangan proyek PBO SPBU berbasis Java terminal menjadi aplikasi web dinamis menggunakan PHP, MySQLi, Bootstrap, dan JavaScript.
+<p align="center">
+  Tugas mata kuliah <strong>Pemrograman Web I (IF21305)</strong> — pengembangan proyek PBO SPBU berbasis Java terminal menjadi aplikasi web dinamis menggunakan PHP, MySQLi, Bootstrap, dan JavaScript.
+</p>
 
-![PHP](https://img.shields.io/badge/PHP-8.1%2B-777BB4?logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-MariaDB-4479A1?logo=mysql&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-5-7952B3?logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-Vanilla-F7DF1E?logo=javascript&logoColor=black)
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-8.1%2B-777BB4?logo=php&logoColor=white" alt="PHP 8.1+">
+  <img src="https://img.shields.io/badge/MySQL-MariaDB-4479A1?logo=mysql&logoColor=white" alt="MySQL/MariaDB">
+  <img src="https://img.shields.io/badge/Bootstrap-5-7952B3?logo=bootstrap&logoColor=white" alt="Bootstrap 5">
+  <img src="https://img.shields.io/badge/JavaScript-Vanilla-F7DF1E?logo=javascript&logoColor=black" alt="Vanilla JavaScript">
+</p>
 
 ---
 
